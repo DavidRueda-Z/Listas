@@ -1,0 +1,16 @@
+Ejercicios Listas Simples
+
+1. Crear una lista de nombres y mostrar todos los elementos.
+2. Agregar 5 números enteros a una lista y mostrar el mayor.
+3. Pedir al usuario que ingrese nombres hasta que escriba "salir" y luego mostrarlos al revés.
+4. Crear una lista de precios (double) y calcular el promedio.
+5. Crear una lista enlazada de colores y mostrar cada elemento.
+6. Agregar elementos al inicio y al final de una lista enlazada. Mostrarla antes y después.
+7. Eliminar un elemento específico de la lista (por nombre).
+8. Crear una lista enlazada de tareas (String) y permitir al usuario:
+	Agregar tarea
+	Ver lista
+	Eliminar tarea por nombre
+	Salir
+	Pequeño menú interactivo por consola.
+9. Implementar una lista enlazada propia desde cero (sin usar LinkedList).
